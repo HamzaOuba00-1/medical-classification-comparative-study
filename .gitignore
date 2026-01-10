@@ -9,10 +9,7 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data
-data/
-datasets/
-*.csv
+
 
 # OS
 .DS_Store
