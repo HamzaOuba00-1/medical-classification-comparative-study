@@ -13,7 +13,7 @@ The project is implemented using **Jupyter notebooks** and follows standard mach
 
 ---
 
-## 📂 Project Structure
+## 📂 Structure
 
 ```
 /
