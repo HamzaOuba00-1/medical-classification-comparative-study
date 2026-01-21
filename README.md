@@ -16,7 +16,7 @@ The project is implemented using **Jupyter notebooks** and follows standard mach
 ## 📂 Project Structure
 
 ```
-project/
+/
 │── 01_theoretical_foundations.ipynb
 │── 02_small_dataset_experiments.ipynb
 │── 03_large_dataset_experiments.ipynb
@@ -67,11 +67,11 @@ project/
 
 ## 🛠️ Technologies Used
 
-* Python 3
+* Python 
 * NumPy
 * Pandas
 * Scikit-learn
-* Matplotlib / Seaborn
+* Matplotlib
 * Jupyter Notebook
 
 ---
