@@ -80,6 +80,6 @@ The project is implemented using **Jupyter notebooks** and follows standard mach
 ## 👤 Author
 
 **Hamza Ouba**
-Machine Learning
+
 
 
